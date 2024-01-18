@@ -1,4 +1,4 @@
-package cn.itcast.mq.spring;
+package com.chensoul.rabbitmq.spring;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;

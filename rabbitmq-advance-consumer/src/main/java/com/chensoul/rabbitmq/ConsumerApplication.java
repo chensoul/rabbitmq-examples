@@ -1,4 +1,4 @@
-package cn.itcast.mq;
+package com.chensoul.rabbitmq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

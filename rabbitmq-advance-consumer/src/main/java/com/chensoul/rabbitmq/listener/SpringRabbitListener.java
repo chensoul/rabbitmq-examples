@@ -1,4 +1,4 @@
-package cn.itcast.mq.listener;
+package com.chensoul.rabbitmq.listener;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.rabbit.annotation.Exchange;

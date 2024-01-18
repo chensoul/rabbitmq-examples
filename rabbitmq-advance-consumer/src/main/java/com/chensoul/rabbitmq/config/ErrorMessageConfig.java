@@ -1,4 +1,4 @@
-package cn.itcast.mq.config;
+package com.chensoul.rabbitmq.config;
 
 
 import org.springframework.amqp.core.Binding;
