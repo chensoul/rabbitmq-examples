@@ -1,0 +1,11 @@
+spring:
+  rabbitmq:
+    host: localhost # rabbitMQ的ip地址
+    port: 5672 # 端口
+    username: admin
+    password: 123456
+    virtual-host: /
+#    publisher-confirm-type: correlated
+#    publisher-returns: true
+#    template:
+#      mandatory: true
